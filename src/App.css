@@ -1,0 +1,45 @@
+.Container{
+  
+  
+   text-align: center;
+  
+}
+
+.btn1{
+   
+    border-radius: 25px;
+    background-color: aqua;
+    color: black;
+}
+.btn1:hover{
+    background-color: black;
+    color:aliceblue;
+}
+
+
+
+.btn2{
+    margin-left: 30px;
+    border-radius: 25px;
+    background-color: blueviolet;
+    color: black;
+}
+.btn2:hover{
+    background-color: black;
+    color:aliceblue;
+}
+
+.btn3{
+    margin-left: 30px;
+    border-radius: 25px;
+    background-color: red;
+}
+.btn3:hover{
+    background-color: black;
+    color:aliceblue;
+}
+
+.digit{
+    color:deeppink;
+
+}
